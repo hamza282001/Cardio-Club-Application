@@ -44,7 +44,7 @@ The user interface is designed using Adobe XD.
  Database:
 Realtime Firebase database is used as the database in the application. It is connected to register and access personal ID’s. Run logs and all the statistics are directly fed into the database once the user ends the run.
 
- Services:
+ Services Used:
 1. Google Play:
 Google maps API is used to integrate Google maps in the application using GPS. This tracks the location of the user when the run begins.
 2. Motion Sensor:
